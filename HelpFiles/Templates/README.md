@@ -1,0 +1,1 @@
+# Templates for External Help Files
